@@ -16,6 +16,8 @@ The Google Maps Platform has a wide variety of geo data features.  In this resea
 ## Wikipedia Data
 For indentifying the curise ships capacity for later analysis, we utilized Pandas library to read the html tables from Wikipedia. In this section, the curise ship pessager capacity and crew capacity are extracted and saved into a csv file.
 
+### Cruise Ship List
 ![Cruise List](images/cruise_list.png)
 
+### Cruise Ship Capacity
 ![Cruise_Capacity](images/cruise_capacity.png)
