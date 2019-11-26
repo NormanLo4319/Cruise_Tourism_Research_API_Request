@@ -6,8 +6,16 @@ AISHub allow its members to access AISHub data, which originally developed as co
 
 [AISHub API Documentation](https://www.aishub.net/api)
 
+![AISHub](images/AISHub.png)
+
 ## Google Maps API
 The Google Maps Platform has a wide variety of geo data features.  In this research project, we are using the Google Maps API to match the curise ports geo location to its city. The matched locations will be used to test the hypothesis of the curise tourism effect to the local socio-economic impact.
 
+![GoogleMap](images/GoogleMap.png)
+
 ## Wikipedia Data
 For indentifying the curise ships capacity for later analysis, we utilized Pandas library to read the html tables from Wikipedia. In this section, the curise ship pessager capacity and crew capacity are extracted and saved into a csv file.
+
+![Cruise List](images/cruise_list.png)
+
+![Cruise_Capacity](images/cruise_capacity.png)
