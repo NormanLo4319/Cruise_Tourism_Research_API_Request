@@ -1,5 +1,5 @@
 # Cruise Tourism Research API Request
-Using the Google Map API and Web-Scripting Tools to collect cruise ports and cruise ships data.
+Using the Google Map API and Web-Scripting Tools to collect cruise ports and cruise ships data.  The data can be used for urban economics, economics development, or social economics analysis.
 
 ## AISHub API 
 AISHub allow its members to access AISHub data, which originally developed as collision avoidance tool that enables commercial vessels to 'see' each other more clearly in any conditions and to improve helmsman's information about the surrounding environment.  
